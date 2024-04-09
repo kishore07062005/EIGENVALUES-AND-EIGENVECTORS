@@ -12,9 +12,9 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4: End the program
 ## Program:
 /*
-program to implement univariant linear regression to fit a straight line using least s
+program to implement univariant linear regression to fit a straight line using least s.
 Developed by:KISHORE.M
-Reguster Number: 2305002012
+Register Number: 2305002012
 */
 ```
 import numpy as np
