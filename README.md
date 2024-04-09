@@ -11,6 +11,10 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 ### Step 4: End the program
 ## Program:
+/*
+program to implement univariant linear regression to fit a straight line using least s
+Developed by:KISHORE.M
+Reguster Number: 2305002012
 ```
 import numpy as np
 A=np.array([[2,2],[1,3]])
