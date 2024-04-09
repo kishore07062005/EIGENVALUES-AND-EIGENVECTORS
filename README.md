@@ -11,9 +11,12 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 ### Step 4: End the program
 ## Program:
-# program to implement univariant linear regression to fit a straight line using least s.
-# Developed by:KISHORE.M
-# Register Number: 2305002012
+
+\
+#program to find the solution for the given linear equation
+#Developed by:KISHORE M
+#Register Number: 2305002012
+\
 ```
 import numpy as np
 A=np.array([[2,2],[1,3]])
@@ -22,7 +25,10 @@ print("Eigen values are\n",E,"\nEigen vectors are:\n",EV)
 ```
 ## Output:
 ```
-#4 Program to find the eigen values and eigen vectors of the matrix [2,2], [1,3]
+#4.write a program to find the eigenvalues and associated eigenvectors for the matrix [2,2],[1,3]
+```
+```
+#program to find the solution for the given linear equation
 #Developed by: Kishore M
 #RegisterNumber: 2305002012
 ```
