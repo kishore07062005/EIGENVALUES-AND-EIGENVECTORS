@@ -20,9 +20,6 @@ print("Eigen values are\n",E,"\nEigen vectors are:\n",EV)
 ## Output:
 ```
 #4.write a program to find the eigenvalues and associated eigenvectors for the matrix [2,2],[1,3]
-```
-```
-#program to find the solution for the given linear equation
 #Developed by: Kishore M
 #RegisterNumber: 2305002012
 ```
