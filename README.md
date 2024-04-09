@@ -23,9 +23,11 @@ E,EV=np.linalg.eig(A)
 print("Eigen values are\n",E,"\nEigen vectors are:\n",EV)
 ```
 ## Output:
+```
 #4 Program to find the eigen values and eigen vectors of the matrix [2,2], [1,3]
 #Developed by: Kishore M
 #RegisterNumber: 2305002012
+```
 <img width="785" alt="eigen" src="https://github.com/kishore07062005/EIGENVALUES-AND-EIGENVECTORS/assets/156066116/05f28ae0-93a7-415b-a695-5ba0c4d3d675">
 
 ## Result:
